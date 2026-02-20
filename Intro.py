@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.tite("Mi primera APP interactiva")
+st.title("Mi primera APP interactiva")
 
 # Texto
 st.write("Esta es una interfaz muy sencilla.")
