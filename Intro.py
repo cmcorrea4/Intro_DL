@@ -6,7 +6,7 @@ st.title("Mi primera APP interactiva")
 st.write("Esta es una interfaz muy sencilla.")
 
 # Entrada de texto
-#nombre = st.text_input("Escribe tu nombre:")
+nombre = st.text_input("Escribe tu nombre:")
 
 # Botón
 #if st.button("Saludar"):
