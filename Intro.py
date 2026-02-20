@@ -13,5 +13,5 @@ if st.button("Saludar"):
    st.success(f"Hola {nombre}, bienvenido a Streamlit 🚀")
 
 # Slider
-#edad = st.slider("Selecciona tu edad:", 0, 100, 25)
-#st.write("Tu edad es:", edad)
+edad = st.slider("Selecciona tu edad:", 0, 100, 25)
+st.write("Tu edad es:", edad)
